@@ -1,0 +1,2 @@
+# Pharmacy Manangment System-Laravel
+ A simple project based on a Pharmacy Management System that uses PHP Language with Laravel Web Framework. The following Laravel project contains all the essential features that can be used by pharmacys. It has a number of features that will allow users to manage all the records and sales. This system as well as the web application’s concept is all clear. It’s identical to real-world scenarios and well-implemented on it.
